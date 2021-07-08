@@ -6,6 +6,9 @@ test for graphql
 ```
 pip install -r requirements
 python app.py
+
+Viewer tester API
+http://localhost:8080/graphql
 ```
 
 ### Simple Query Graphql
